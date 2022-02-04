@@ -1,2 +1,2 @@
-language = "java"
-run = "sh start.sh"
+language = "java10"
+run = "bash run.sh"
